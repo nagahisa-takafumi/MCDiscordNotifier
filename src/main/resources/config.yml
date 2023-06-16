@@ -1,0 +1,30 @@
+DISCORD:
+  TOKEN: ""
+  CHANNEL:
+    SERVER_STATUS: ""
+    SERVER_LOG: ""
+
+message:
+  none_player: "現在プレイヤーはいません。"
+  disable_server: "サーバーは停止中です。"
+  on_plugin_enable: "プラグインが起動しました。"
+  on_plugin_disable: "プラグインが停止しました。"
+  on_server_enable: "サーバーが起動しました。"
+  on_server_disable: "サーバーが停止しました。"
+  on_player_join: "%sさんがサーバーに入室しました。"
+  on_player_quit: "%sさんがサーバーを退出しました。"
+  on_discord_ready: "Discordに接続しました。 [%s]"
+
+string:
+  server_name: "Hal mates Server"
+  on_player_join: "サーバー入室"
+  on_player_quit: "サーバー退室"
+  player_name: "プレイヤー名"
+  player_lv: "レベル"
+  on_play: "プレイ中"
+  max_players: "最大プレイ人数"
+  online_players: "現在のプレイ人数"
+  version: "バージョン"
+
+value:
+  server_status_message_id: ""

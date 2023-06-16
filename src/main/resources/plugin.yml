@@ -1,0 +1,6 @@
+name: MCDiscordNotifier
+version: ${version}
+author: 'nagahisa-takafumi'
+description: 'This is a Spigot plugin that posts player join/leave logs and server status to Discord text channels.'
+main: 'com.halmates.mcdiscordnotifier.MCDiscordNotifier'
+api-version: '1.20'
